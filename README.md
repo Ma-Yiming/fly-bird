@@ -3,8 +3,10 @@
 这是一款休闲益智小游戏，玩家可以注册账号进行登录，登陆成功后可设置个人界面，便可开始游戏，游戏按任意键开始并按任意键让小鸟飞起来，保护小鸟不受柱子撞击，每通过一个柱子积一分，最后计算出总分，存入历史战绩系统（有初始化战绩），玩家可查看近十次战绩以及历史最高纪录，玩家退出游戏后想玩时可再次登录自己账号，不断让自己的号更厉害。  
 ## 登录界面
 <div align=center><img src="https://s4.ax1x.com/2022/03/02/bGt7Yq.png"></div>  
+
 ## 历史记录
 <div align=center><img src="https://s4.ax1x.com/2022/03/02/bGtTkn.png"></div>  
+
 ## 游戏过程
 <div align=center><img src="https://s4.ax1x.com/2022/03/02/bGt5wj.png"></div>  
 
